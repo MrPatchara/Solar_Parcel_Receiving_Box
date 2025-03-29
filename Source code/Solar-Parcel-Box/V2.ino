@@ -4,8 +4,8 @@
 #include <WiFiClientSecure.h>
 #include <HTTPClient.h>
 
-#define TELEGRAM_BOT_TOKEN  "8171906066:AAEBn_3Ha3bns7zaqEbGJn508o6dFJcFd44"  // ใส่ Token ของ Telegram Bot
-#define TELEGRAM_CHAT_ID    "-1002591941089"  // ใส่ Chat ID ที่จะส่งข้อความหา
+#define TELEGRAM_BOT_TOKEN  ""  // ใส่ Token ของ Telegram Bot
+#define TELEGRAM_CHAT_ID    ""  // ใส่ Chat ID ที่จะส่งข้อความหา
 
 int Reset_wifi = 16; //D0 
 
