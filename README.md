@@ -281,9 +281,13 @@ Open Arduino IDE and install all required libraries mentioned in [Software Requi
 
 <div align="center">
 
-🎥 **[Watch Video Test](pic/Video-Test.mp4)**
+### 🎥 Real Usage Video
 
-*Click to view the project in action!*
+[![Solar Parcel Receiving Box - Real Usage Demo](https://img.youtube.com/vi/iII9jxzTJJg/maxresdefault.jpg)](https://www.youtube.com/watch?v=iII9jxzTJJg)
+
+**[▶️ Watch on YouTube](https://www.youtube.com/watch?v=iII9jxzTJJg)**
+
+*Click the image above to watch the real usage demonstration!*
 
 </div>
 
